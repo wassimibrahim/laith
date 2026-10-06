@@ -44,7 +44,7 @@ def classify(title, source):
     deal = bool(re.search(r'acquir|acquis|invest|concession|financ|stake|loan|merger|buyout|sale|divest|fund|收购|投资|استثمار|تمويل', t))
     kind = 'Innovation' if innovation else 'Deal lead' if deal else 'Industry'
     sector = source.get('sector','Infrastructure')
-    if re.search(r'\bport\b|ports|terminal|puerto|hafen|porto|ميناء|موانئ|港口',t): sector='Ports & logistics'
+    if re.search(r'\bports?\b|\bterminals?\b|\bpuertos?\b|\bhafen\b|\bhäfen\b|\bportos?\b|ميناء|موانئ|港口',t): sector='Ports & logistics'
     if re.search(r'data cent(?:er|re)|fibre|fiber|telecom|数据中心',t): sector='Digital infrastructure'
     score = 40 + (25 if sector=='Ports & logistics' else 0) + (15 if deal else 0) + (10 if innovation else 0) + (5 if source.get('primary') else 0)
     return kind, sector, min(score,99)
