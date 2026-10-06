@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {model,npv,irr,debtCapacity} from '../app/finance.js';
+const close=(a,b,t=1e-7)=>assert.ok(Math.abs(a-b)<t,`${a} != ${b}`);
+test('first-year cash bridge independently reconciles',()=>{const m=model({growth:0}),y=m.years[0];close(y.revenue,120);close(y.ebitda,54);close(y.da,7.2);close(y.unleveredTax,11.7);close(y.capex,9.6);close(y.fcff,32.7);close(m.dcf,32.7*(1-1.09**-20)/.09);});
+test('sources equal uses and debt amortizes',()=>{const m=model();close(m.debt+m.equity,m.ev+m.fees);close(m.years.reduce((s,y)=>s+y.principal,0),m.debt);close(m.years[14].balance,0);close(m.years[15].interest,0);assert.equal(m.years[15].dscr,null);});
+test('exit sells only remaining concession cash flows',()=>{const m=model();const pv=m.years.slice(0,m.p.hold).reduce((s,y)=>s+y.fcff/(1+m.p.wacc/100)**y.year,0);close(pv+m.exitEV/(1+m.p.wacc/100)**m.p.hold,m.dcf);close(m.flows.at(-1),m.years[m.p.hold-1].equityCF+m.exitEV-m.exitDebt);});
+test('IRR known solutions and absent solutions',()=>{close(irr([-100,110]),.1);close(irr([-100,0,121]),.1);assert.equal(irr([10,20]),null);close(npv(.1,[-100,110]),0);});
+test('interest shield appears only in levered tax',()=>{for(const y of model().years){close(y.cfads-y.fcff,y.unleveredTax-y.leveredTax);close(y.equityCF,y.cfads-y.interest-y.principal);}});
+test('capacity caps volume and downside reduces value',()=>{const m=model({capacity:1000000,growth:10,leverage:0});assert.ok(m.years.every(y=>y.volume===1000000&&y.interest===0&&y.dscr===null));assert.ok(model({wacc:12}).dcf<model().dcf);assert.ok(model({capex:15}).dcf<model().dcf);assert.ok(model({years:25}).dcf>model().dcf);});
+test('debt sizing uses annuity capacity',()=>{close(debtCapacity(12,1.3,.05,15),95.811304,0.001);assert.ok(debtCapacity(12,1.3,.05,15)<100);close(debtCapacity(10,1.25,0,10),80);});
+test('invalid combinations fail',()=>{assert.throws(()=>model({hold:20}));assert.throws(()=>model({tenor:21}));assert.throws(()=>model({capacity:10}));assert.throws(()=>model({teu:NaN}));});

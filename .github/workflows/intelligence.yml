@@ -1,0 +1,59 @@
+name: Collect intelligence and publish
+on:
+  schedule:
+    - cron: '17 4,10,16,22 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: poseidon-production
+  cancel-in-progress: false
+jobs:
+  intelligence:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Verify collector and financial model
+        run: npm test
+      - name: Collect public feeds
+        id: collect
+        continue-on-error: true
+        run: python3 scripts/collect.py
+      - name: Save collection and daily report
+        run: |
+          git config user.name "poseidon-intelligence[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data reports
+          if ! git diff --cached --quiet; then
+            git commit -m "Update infrastructure intelligence [skip ci]"
+            git push
+          fi
+      - name: Build static app
+        run: python3 scripts/build.py
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Publish
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Flag complete collection outage
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo "Collection failed. Preserved prior records and published current source health."
+          exit 1

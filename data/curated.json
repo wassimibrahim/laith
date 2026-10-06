@@ -1,0 +1,307 @@
+[
+  {
+    "id": "luanda",
+    "title": "DP World extends Luanda concession to 2051 and plans $90m expansion",
+    "publishedAt": "2026-10-06",
+    "verifiedAt": "2026-10-06",
+    "company": "DP World",
+    "region": "Africa",
+    "country": "Angola",
+    "sector": "Ports & logistics",
+    "kind": "Concession & development",
+    "status": "Extension granted; expansion announced",
+    "value": {
+      "amount": 90,
+      "currency": "USD",
+      "unit": "million"
+    },
+    "valueBasis": "Additional planned investment over two years; not acquisition value",
+    "url": "https://www.dpworld.com/en/news/dp-world-granted-extension-for-angolas-luanda-terminal-concession-to-2051-and-announces-us90-million-expansion",
+    "publisher": "DP World",
+    "facts": [
+      "A 10-year extension takes the concession to 2051.",
+      "DP World announced another $90 million of investment over two years.",
+      "Planned terminal capacity is 1.2 million TEU.",
+      "The expansion includes three ship-to-shore cranes and 12 semi-automated RTGs."
+    ],
+    "analysis": "The extension adds contracted operating life, while new capex creates a cash outflow before capacity produces earnings. Model incremental demand and cash flow rather than treating design capacity as revenue.",
+    "unknown": [
+      "Capex phasing",
+      "Incremental contracted volume",
+      "Tariff assumptions",
+      "Financing mix",
+      "Handback requirements"
+    ],
+    "innovation": {
+      "stage": "Expansion and equipment programme announced",
+      "technology": "Semi-automated yard cranes",
+      "mechanism": "Additional quay and yard handling capacity can relieve operational constraints if demand and connecting infrastructure support utilization.",
+      "proof": "The announced reduction in vessel turnaround is a target, not verified operating performance."
+    },
+    "evidence": "Primary announcement reviewed",
+    "score": 99
+  },
+  {
+    "id": "maasvlakte",
+    "title": "Hapag-Lloyd agrees to acquire 25% of Maasvlakte II",
+    "publishedAt": "2026-08-19",
+    "verifiedAt": "2026-10-06",
+    "company": "APM Terminals · Hapag-Lloyd",
+    "region": "Europe",
+    "country": "Netherlands",
+    "sector": "Ports & logistics",
+    "kind": "Minority acquisition",
+    "status": "Announced; approvals required",
+    "value": null,
+    "valueBasis": "Consideration undisclosed",
+    "url": "https://akamai.apmterminals.com/en/news/news-releases/2026/260819-APMTerminals-and-Hapag-Lloyd-partner-at-Maasvlakte-II",
+    "publisher": "APM Terminals",
+    "facts": [
+      "Hapag-Lloyd is to acquire a 25% stake.",
+      "Completion is subject to relevant authority and regulatory approvals.",
+      "Financial terms were not disclosed."
+    ],
+    "analysis": "A shipping line buying terminal equity may improve network access. Examine minority protections and whether volume commitments create measurable value.",
+    "unknown": [
+      "Purchase price",
+      "Net debt",
+      "EBITDA",
+      "Shareholder protections"
+    ],
+    "innovation": null,
+    "evidence": "Primary announcement reviewed",
+    "score": 95
+  },
+  {
+    "id": "jeddah",
+    "title": "APM Terminals takes a minority position alongside DP World",
+    "publishedAt": "2026-02-18",
+    "verifiedAt": "2026-10-06",
+    "company": "DP World · APM Terminals",
+    "region": "Middle East",
+    "country": "Saudi Arabia",
+    "sector": "Ports & logistics",
+    "kind": "Minority acquisition",
+    "status": "Announced agreement",
+    "value": null,
+    "valueBasis": "Consideration undisclosed",
+    "url": "https://www.dpworld.com/en/news/dp-world-and-apm-terminals-announce-strategic-partnership-at-jeddah-islamic-port",
+    "publisher": "DP World",
+    "facts": [
+      "APM Terminals will acquire 37.5% of Southern Container Terminal.",
+      "DP World will retain 62.5% and operational leadership.",
+      "DP World secured a 30-year BOT concession in 2019."
+    ],
+    "analysis": "A finite concession makes the remaining cash-flow life central to valuation. Minority ownership does not automatically imply operating control.",
+    "unknown": [
+      "Price paid",
+      "Concession extension rights",
+      "Distributions policy",
+      "Financing terms"
+    ],
+    "innovation": null,
+    "evidence": "Primary announcement reviewed",
+    "score": 95
+  },
+  {
+    "id": "fujairah",
+    "title": "DP World outlines a 50-year Fujairah concession",
+    "publishedAt": "2026-07-22",
+    "verifiedAt": "2026-10-06",
+    "company": "DP World · Fujairah Ports Authority",
+    "region": "Middle East",
+    "country": "UAE",
+    "sector": "Ports & logistics",
+    "kind": "Concession",
+    "status": "Agreement in principle",
+    "value": null,
+    "valueBasis": "Project cost undisclosed",
+    "url": "https://www.dpworld.com/en/news/dp-world-to-expand-uae-gateway-network-with-new-fujairah-terminals",
+    "publisher": "DP World",
+    "facts": [
+      "An agreement in principle covers a 50-year concession.",
+      "The two planned assets are Al Rugaylat and Dibba terminals."
+    ],
+    "analysis": "Underwrite construction, demand ramp-up and concession conditions separately. An agreement in principle is earlier than financial close.",
+    "unknown": [
+      "Capex schedule",
+      "Tariffs",
+      "Funding commitments",
+      "Conditions precedent"
+    ],
+    "innovation": null,
+    "evidence": "Primary announcement reviewed",
+    "score": 95
+  },
+  {
+    "id": "antwerp",
+    "title": "DP World plans a €48m cold-chain hub in Antwerp",
+    "publishedAt": "2026-08-05",
+    "verifiedAt": "2026-10-06",
+    "company": "DP World · Montea · MLSO",
+    "region": "Europe",
+    "country": "Belgium",
+    "sector": "Ports & logistics",
+    "kind": "Development",
+    "status": "Announced project",
+    "value": {
+      "amount": 48,
+      "currency": "EUR",
+      "unit": "million"
+    },
+    "valueBasis": "Initial project investment; not acquisition EV",
+    "url": "https://www.dpworld.com/en/news/dp-world-expands-cold-chain-capabilities-with-new-48m-antwerp-hub",
+    "publisher": "DP World",
+    "facts": [
+      "Initial investment is €48 million.",
+      "Later phases could bring long-term investment to around €100 million.",
+      "The planned site covers 83,000 square metres next to Antwerp Gateway."
+    ],
+    "analysis": "Compare initial spend with stabilized rent or logistics margin. Do not count the €48m and €100m as two separate deals.",
+    "unknown": [
+      "Occupancy commitments",
+      "Lease structure",
+      "Operating margin",
+      "Phase timing"
+    ],
+    "innovation": null,
+    "evidence": "Primary announcement reviewed",
+    "score": 95
+  },
+  {
+    "id": "klaipeda",
+    "title": "EIB provides €100m for Klaipėda’s port transformation",
+    "publishedAt": "2026-09-15",
+    "verifiedAt": "2026-10-06",
+    "company": "EIB · Klaipėda State Seaport Authority",
+    "region": "Europe",
+    "country": "Lithuania",
+    "sector": "Ports & logistics",
+    "kind": "Debt financing",
+    "status": "Loan announced",
+    "value": {
+      "amount": 100,
+      "currency": "EUR",
+      "unit": "million"
+    },
+    "valueBasis": "EIB loan; project cost approximately €201m",
+    "url": "https://www.eib.org/en/press/all/2026-293-eib-helps-transform-lithuania-s-port-of-klaipeda-into-defence-and-clean-energy-hub-with-eur100-million-in-financing",
+    "publisher": "European Investment Bank",
+    "facts": [
+      "The EIB financing is €100 million.",
+      "The overall project costs around €201 million.",
+      "Works include shoreside electricity, hydrogen facilities and offshore wind infrastructure."
+    ],
+    "analysis": "Debt is a funding source, not the asset valuation. Test which cash flows repay the loan and how grants change the equity requirement.",
+    "unknown": [
+      "Interest rate",
+      "Maturity",
+      "Amortization",
+      "Revenue allocation"
+    ],
+    "innovation": {
+      "stage": "Announced infrastructure programme",
+      "technology": "Shore power & clean energy",
+      "mechanism": "Grid connections and low-emission infrastructure can change energy costs and commercial capability.",
+      "proof": "A financed programme is not proof of realized savings. Request utilization, tariff and commissioning evidence."
+    },
+    "evidence": "Primary announcement reviewed",
+    "score": 95
+  },
+  {
+    "id": "atnorth",
+    "title": "Partners Group’s secondaries strategy returns to atNorth",
+    "publishedAt": "2026-09-02",
+    "verifiedAt": "2026-10-06",
+    "company": "Partners Group · CPP Investments · Equinix",
+    "region": "Europe",
+    "country": "Nordics",
+    "sector": "Digital infrastructure",
+    "kind": "Minority acquisition",
+    "status": "Around 10% investment announced",
+    "value": null,
+    "valueBasis": "New stake price undisclosed; prior sale EV $4bn",
+    "url": "https://www.partnersgroup.com/en/news-and-views/press-releases/investment-news/detail?news_id=95eb4c3a-eae1-4ff3-9f64-10781dff63c0",
+    "publisher": "Partners Group",
+    "facts": [
+      "Partners Group’s secondaries strategy will acquire around 10%.",
+      "The prior sale to CPP Investments and Equinix valued the company at $4 billion enterprise value.",
+      "The September release says the prior transaction has closed."
+    ],
+    "analysis": "Ten percent of enterprise value is not the price of 10% equity. Deduct net debt and review the capital structure and valuation date.",
+    "unknown": [
+      "New investment price",
+      "Current net debt",
+      "Growth capex obligations",
+      "Contracted versus operating EBITDA"
+    ],
+    "innovation": null,
+    "evidence": "Primary announcement reviewed",
+    "score": 80
+  },
+  {
+    "id": "lastmile",
+    "title": "Macquarie agrees to acquire the remaining 50% of Last Mile",
+    "publishedAt": "2026-02-05",
+    "verifiedAt": "2026-10-06",
+    "company": "Macquarie Asset Management · Infracapital",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "sector": "Utilities",
+    "kind": "Acquisition",
+    "status": "Binding agreement; close not reverified",
+    "value": null,
+    "valueBasis": "Consideration undisclosed",
+    "url": "https://www.macquarie.com/in/en/about/news/2026/macquarie-asset-management-to-acquire-additional-stake-in-last-mile-infrastructure.html",
+    "publisher": "Macquarie",
+    "facts": [
+      "MAM-managed funds agreed to acquire a further 50% from Infracapital.",
+      "The proposed transaction would take ownership to 100%.",
+      "The announcement expected closing in 2026, subject to conditions."
+    ],
+    "analysis": "Compare connection growth, recurring network income and the capex needed for each new customer. Refresh the closing status before an interview.",
+    "unknown": [
+      "Closing confirmation",
+      "Purchase price",
+      "Regulatory returns",
+      "Funding mix"
+    ],
+    "innovation": null,
+    "evidence": "Primary announcement reviewed",
+    "score": 80
+  },
+  {
+    "id": "southampton",
+    "title": "Larger quay cranes arrive at DP World Southampton",
+    "publishedAt": "2026-06-19",
+    "verifiedAt": "2026-10-06",
+    "company": "DP World",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "sector": "Ports & logistics",
+    "kind": "Innovation",
+    "status": "Equipment arrived",
+    "value": null,
+    "valueBasis": "Equipment cost not captured",
+    "url": "https://www.dpworld.com/en/news/europes-largest-quay-cranes-arrive-at-dp-world-southampton",
+    "publisher": "DP World",
+    "facts": [
+      "DP World announced the arrival of two large quay cranes at Southampton."
+    ],
+    "analysis": "Bigger equipment creates value only if vessel demand and yard capacity support higher productive throughput.",
+    "unknown": [
+      "Purchase cost",
+      "Commissioning date",
+      "Incremental moves per hour",
+      "Maintenance costs"
+    ],
+    "innovation": {
+      "stage": "Equipment arrival announced",
+      "technology": "Quay crane capacity",
+      "mechanism": "Higher vessel-handling capability can relieve a berth bottleneck.",
+      "proof": "Arrival does not establish commissioning, productivity improvement or an investment return."
+    },
+    "evidence": "Primary announcement reviewed",
+    "score": 95
+  }
+]
