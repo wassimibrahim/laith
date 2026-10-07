@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+  "checkedAt": "2026-10-07T21:18:21.546426+00:00",
   "sources": [
     {
       "id": "ports-global",
@@ -12,8 +12,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 45,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 48,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -27,8 +27,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 55,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 56,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -43,7 +43,7 @@
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
       "count": 60,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -57,8 +57,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 62,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 61,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -72,8 +72,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 52,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 50,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -87,8 +87,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 52,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 55,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -102,8 +102,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 47,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 51,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
       "count": 60,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -132,8 +132,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 62,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 55,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -147,8 +147,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 53,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 47,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -162,8 +162,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 52,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 53,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -177,8 +177,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 65,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 67,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -192,8 +192,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 54,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 55,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -207,8 +207,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 58,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 53,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -222,8 +222,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 44,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 48,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -237,8 +237,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 25,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 27,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -252,8 +252,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 86,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 84,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -268,7 +268,7 @@
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
       "count": 65,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -282,8 +282,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 66,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 65,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -297,8 +297,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 29,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 26,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -312,8 +312,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 45,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 46,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -327,8 +327,8 @@
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
       "state": "ok",
-      "count": 65,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "count": 62,
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -343,7 +343,7 @@
       "coverage": "Headlines supplied by publisher; article facts require review.",
       "state": "error",
       "count": 0,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -358,7 +358,7 @@
       "coverage": "Headlines supplied by publisher; article facts require review.",
       "state": "ok",
       "count": 10,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     },
     {
@@ -373,7 +373,7 @@
       "coverage": "Headlines supplied by publisher; article facts require review.",
       "state": "ok",
       "count": 1,
-      "checkedAt": "2026-10-07T11:04:21.847657+00:00",
+      "checkedAt": "2026-10-07T21:18:21.546426+00:00",
       "error": null
     }
   ],
