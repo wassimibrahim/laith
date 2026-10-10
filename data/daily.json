@@ -1,11 +1,15 @@
 {
-  "date": "2026-10-09",
-  "generatedAt": "2026-10-09T20:54:04.551509+00:00",
-  "published24h": 210,
-  "discoveredToday": 298,
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T01:45:19.981280+00:00",
+  "published24h": 201,
+  "discoveredToday": 26,
   "sourceSuccess": 24,
   "sourceTotal": 25,
   "topIds": [
+    "c65456ef3b77e6321e1b",
+    "c02eec10302dd8843f4b",
+    "31a17a28637a46a2cbb8",
+    "1e17a54ef6c1820c937b",
     "7eff1ca567676ce2967d",
     "840df57b18ade056ad3c",
     "d86899665111e93421ae",
@@ -14,19 +18,15 @@
     "168e6a392090d1e07b01",
     "a32dceb05a116d3708f9",
     "4147c888ffac05c114ab",
+    "4094bc9d3e93dfc5315c",
     "93297a4190eb731cfa9f",
     "a58ebd4e235891d7fbed",
     "ad10dce0afd84ffb05f3",
     "2558626940ba037c3a12",
     "07bc5047af7cd0cd4c37",
     "3fd8038bf68110e9a2e1",
-    "8baef56082c003886de2",
-    "984ba86206515737a848",
-    "84f39ade5764d9b42319",
-    "a27571a9b08899036ab3",
-    "5fe85307439d2bc0c1d9",
-    "74933a0d4b64818998fb"
+    "8baef56082c003886de2"
   ],
-  "caseIndex": 0,
+  "caseIndex": 1,
   "note": "Automated headline screening. These are research leads, not a verified census of transactions. Rankings use sector and keyword relevance; they are not confidence scores."
 }
