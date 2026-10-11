@@ -88,7 +88,7 @@ def fetch(source, now):
     last=None
     for attempt in range(3):
         try:
-            req=Request(source['url'],headers={'User-Agent':'PoseidonIntelligence/1.0 (+public RSS research; github.com/wassimibrahim/laith)', 'Accept':'application/rss+xml, application/atom+xml, application/xml, text/xml'})
+            req=Request(source['url'],headers={'User-Agent':'LaithIntelligence/1.1 (+public RSS research; github.com/wassimibrahim/laith)', 'Accept':'application/rss+xml, application/atom+xml, application/xml, text/xml'})
             with urlopen(req,timeout=22) as response:
                 body=response.read(MAX_BYTES+1)
                 if len(body)>MAX_BYTES: raise ValueError('Feed exceeds size limit')
@@ -139,7 +139,7 @@ def make_report(rows, health, now):
       'sourceSuccess':sum(x['state']=='ok' for x in health),'sourceTotal':len(health),
       'topIds':[x['id'] for x in ranked[:20]], 'caseIndex':int(now.strftime('%j'))%6,
       'note':'Automated headline screening. These are research leads, not a verified census of transactions. Rankings use sector and keyword relevance; they are not confidence scores.'}
-    lines=[f'# Poseidon | {day}', '',report['note'],'', f"Collection: {report['sourceSuccess']}/{len(health)} channels responding. {len(fresh)} items published in the last 24 hours.",'','## Today’s research queue','']
+    lines=[f'# Laith | {day}', '',report['note'],'', f"Collection: {report['sourceSuccess']}/{len(health)} channels responding. {len(fresh)} items published in the last 24 hours.",'','## Today’s research queue','']
     if not ranked: lines.append('No dated items published in the last 24 hours were collected. Check coverage; older items remain in the archive.')
     for x in ranked[:20]:
         lines.extend([f"- [{x['title']}]({x['url']}) — {x['publisher']} | {x['sector']} | {x['evidence']}"])

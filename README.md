@@ -1,4 +1,4 @@
-# Poseidon — Infrastructure Intelligence
+# Laith — Infrastructure Intelligence
 
 A working research desk for global infrastructure, port terminals and finance interview practice.
 
@@ -70,4 +70,12 @@ The scenarios are deliberately simplified. Detailed investment work requires vol
 
 To add a source, edit `data/sources.json`, run the collector, inspect its results and source health, and commit. RSS feeds may fail with 403 or change format; do not bypass a block. Use a supported feed or authorized provider instead. Archives grow over time; for larger institutional coverage, migrate the data store to a database, add entity resolution, licensed filings/deal feeds, review workflows and alerting. No such additional backend or AI enrichment is implied by this version.
 
-Google Fonts is the only optional external UI resource; system fonts provide fallback. The app is public on GitHub Pages. Browser-local notes depend on the domain and browser; export them before changing device or domain.
+The interface uses system fonts and a local SVG logo; no external font requests are needed. The app is public on GitHub Pages. Browser-local notes depend on the domain and browser; export them before changing device or domain.
+
+## Vercel
+
+`vercel.json` sets `outputDirectory` to `dist`, the folder produced by `npm run build`. It also explicitly selects the static (Other) framework preset. Node is pinned to 22.x. This fixes the previous build failure where Vercel expected a `public` directory. No change to output paths in the app is needed. The GitHub collector continues to commit updated public data; the connected Vercel project can deploy these updates through its Git integration.
+
+## Laith interface
+
+Black background, high-contrast system sans-serif type, large headlines, a network-line lion SVG and simple navigation. Brief filters include text, topic and date. Deals adds sector, region, evidence and date with a single Clear filters action. Existing browser notes are read from the old storage keys and saved under Laith keys, preserving existing users’ notebooks on the same domain.

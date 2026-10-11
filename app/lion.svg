@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+<title>Laith — network lion</title>
+<g stroke="#f5f5f5" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round">
+<path d="M50 6 28 12 12 30 7 52 17 74 34 89 50 96 66 89 83 74 93 52 88 30 72 12Z"/>
+<path d="m28 12 5 21-21-3 13 23-18-1 22 20-12 2 23 7-6 8 16-12 16 12-6-8 23-7-12-2 22-20-18 1 13-23-21 3 5-21-22 13Z"/>
+<path d="m33 33 17-8 17 8 8 20-7 17-8 11H40L32 70l-7-17Z"/>
+<path d="m33 33 3 17 14 9 14-9 3-17M25 53l11-3-4 20 12-1 6 8 6-8 12 1-4-20 11 3M36 50l-5-7 12 2m21 5 5-7-12 2M44 69l6-10 6 10H44M50 77v-8M50 6v19M12 30l21 3M7 52l18 1M17 74l15-4M34 89l6-8M50 96V81M66 89l-6-8M83 74l-15-4M93 52l-18 1M88 30l-21 3"/>
+</g>
+<g fill="#f5f5f5"><circle cx="50" cy="6" r="2"/><circle cx="28" cy="12" r="2"/><circle cx="72" cy="12" r="2"/><circle cx="12" cy="30" r="2"/><circle cx="88" cy="30" r="2"/><circle cx="7" cy="52" r="2"/><circle cx="93" cy="52" r="2"/><circle cx="17" cy="74" r="2"/><circle cx="83" cy="74" r="2"/><circle cx="34" cy="89" r="2"/><circle cx="66" cy="89" r="2"/><circle cx="50" cy="96" r="2"/><circle cx="33" cy="33" r="1.8"/><circle cx="67" cy="33" r="1.8"/><circle cx="50" cy="25" r="1.8"/><circle cx="36" cy="50" r="1.8"/><circle cx="64" cy="50" r="1.8"/><circle cx="50" cy="59" r="2"/><circle cx="50" cy="77" r="1.8"/></g>
+</svg>

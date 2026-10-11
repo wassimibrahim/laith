@@ -10,7 +10,7 @@ permissions:
   pages: write
   id-token: write
 concurrency:
-  group: poseidon-production
+  group: laith-production
   cancel-in-progress: false
 jobs:
   intelligence:
@@ -35,7 +35,7 @@ jobs:
         run: python3 scripts/collect.py
       - name: Save collection and daily report
         run: |
-          git config user.name "poseidon-intelligence[bot]"
+          git config user.name "laith-intelligence[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data reports
           if ! git diff --cached --quiet; then
