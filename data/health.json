@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-19T09:53:40.723569+00:00",
+  "checkedAt": "2026-10-19T16:58:45.690603+00:00",
   "sources": [
     {
       "id": "ports-global",
@@ -11,10 +11,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 55,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "ports-europe",
@@ -26,10 +26,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 64,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "ports-americas",
@@ -41,10 +41,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 64,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "ports-asia",
@@ -56,10 +56,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 53,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "ports-africa",
@@ -71,10 +71,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 61,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "ports-middle-east",
@@ -86,10 +86,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 60,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "innovation",
@@ -101,10 +101,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 62,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "concessions",
@@ -116,10 +116,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 56,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "infra-ma",
@@ -131,10 +131,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 53,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "energy",
@@ -146,10 +146,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 52,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "digital",
@@ -161,10 +161,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 59,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "transport",
@@ -176,10 +176,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 62,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "water",
@@ -191,10 +191,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 58,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "funds",
@@ -206,10 +206,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 59,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "operators",
@@ -221,10 +221,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 47,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "swiss",
@@ -236,10 +236,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 33,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "spanish",
@@ -251,10 +251,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 63,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "portuguese",
@@ -266,10 +266,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 62,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "french",
@@ -281,10 +281,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 66,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "german",
@@ -296,10 +296,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 38,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "arabic",
@@ -311,10 +311,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 61,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "chinese",
@@ -326,10 +326,10 @@
       "enabled": true,
       "method": "Public news-index RSS",
       "coverage": "Search-index discovery; language and geography are query scopes, not verified asset locations.",
-      "state": "error",
-      "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "state": "ok",
+      "count": 100,
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
+      "error": null
     },
     {
       "id": "pt",
@@ -343,7 +343,7 @@
       "coverage": "Headlines supplied by publisher; article facts require review.",
       "state": "error",
       "count": 0,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
       "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -358,7 +358,7 @@
       "coverage": "Headlines supplied by publisher; article facts require review.",
       "state": "ok",
       "count": 10,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
       "error": null
     },
     {
@@ -373,10 +373,10 @@
       "coverage": "Headlines supplied by publisher; article facts require review.",
       "state": "ok",
       "count": 2,
-      "checkedAt": "2026-10-19T09:53:40.723569+00:00",
+      "checkedAt": "2026-10-19T16:58:45.690603+00:00",
       "error": null
     }
   ],
-  "successful": 2,
+  "successful": 24,
   "total": 25
 }
