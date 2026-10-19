@@ -1,5 +1,225 @@
 [
   {
+    "id": "5bf52eb0e784c5590a48",
+    "title": "Hai An lines up $70m feeder newbuild investment",
+    "url": "https://splash247.com/hai-an-lines-up-70m-feeder-newbuild-investment",
+    "publishedAt": "2026-10-19T09:40:00+00:00",
+    "firstSeen": "2026-10-19T09:53:40.723569+00:00",
+    "lastSeen": "2026-10-19T09:53:40.723569+00:00",
+    "publisher": "Splash 247",
+    "channels": [
+      "splash"
+    ],
+    "region": "Global",
+    "sector": "Ports & logistics",
+    "kind": "Deal lead",
+    "score": 80,
+    "evidence": "Feed lead — not independently verified",
+    "primaryFeed": false,
+    "status": "Unverified",
+    "value": null
+  },
+  {
+    "id": "977d00741738590f5252",
+    "title": "MSC joins Rheinmetall in €138m Romanian shipyard takeover",
+    "url": "https://splash247.com/msc-joins-rheinmetall-in-e138m-romanian-shipyard-takeover",
+    "publishedAt": "2026-10-19T09:30:00+00:00",
+    "firstSeen": "2026-10-19T09:53:40.723569+00:00",
+    "lastSeen": "2026-10-19T09:53:40.723569+00:00",
+    "publisher": "Splash 247",
+    "channels": [
+      "splash"
+    ],
+    "region": "Global",
+    "sector": "Ports & logistics",
+    "kind": "Industry",
+    "score": 65,
+    "evidence": "Feed lead — not independently verified",
+    "primaryFeed": false,
+    "status": "Unverified",
+    "value": null
+  },
+  {
+    "id": "c052590154677eb1a8f6",
+    "title": "Reederei Nord reshuffles top team",
+    "url": "https://splash247.com/reederei-nord-reshuffles-top-team",
+    "publishedAt": "2026-10-19T09:23:00+00:00",
+    "firstSeen": "2026-10-19T09:53:40.723569+00:00",
+    "lastSeen": "2026-10-19T09:53:40.723569+00:00",
+    "publisher": "Splash 247",
+    "channels": [
+      "splash"
+    ],
+    "region": "Global",
+    "sector": "Ports & logistics",
+    "kind": "Industry",
+    "score": 65,
+    "evidence": "Feed lead — not independently verified",
+    "primaryFeed": false,
+    "status": "Unverified",
+    "value": null
+  },
+  {
+    "id": "b466939bb6f7c7d26277",
+    "title": "Singapore Conducts World’s Largest Ethanol Bunkering Operation",
+    "url": "https://www.globalpsa.com/singapore-conducts-worlds-largest-ethanol-bunkering-operation",
+    "publishedAt": "2026-10-19T08:57:52+00:00",
+    "firstSeen": "2026-10-19T09:53:40.723569+00:00",
+    "lastSeen": "2026-10-19T09:53:40.723569+00:00",
+    "publisher": "PSA International",
+    "channels": [
+      "psa"
+    ],
+    "region": "Global",
+    "sector": "Ports & logistics",
+    "kind": "Industry",
+    "score": 70,
+    "evidence": "Feed lead — not independently verified",
+    "primaryFeed": true,
+    "status": "Unverified",
+    "value": null
+  },
+  {
+    "id": "0e343049be0454b3163d",
+    "title": "Tanker earnings defy all historical comparisons",
+    "url": "https://splash247.com/tanker-earnings-defy-all-historical-comparisons",
+    "publishedAt": "2026-10-19T08:45:36+00:00",
+    "firstSeen": "2026-10-19T09:53:40.723569+00:00",
+    "lastSeen": "2026-10-19T09:53:40.723569+00:00",
+    "publisher": "Splash 247",
+    "channels": [
+      "splash"
+    ],
+    "region": "Global",
+    "sector": "Ports & logistics",
+    "kind": "Industry",
+    "score": 65,
+    "evidence": "Feed lead — not independently verified",
+    "primaryFeed": false,
+    "status": "Unverified",
+    "value": null
+  },
+  {
+    "id": "261a6b9338664e785bcf",
+    "title": "Hormuz attacks overwhelm UKMTO",
+    "url": "https://splash247.com/hormuz-attacks-overwhelm-ukmto",
+    "publishedAt": "2026-10-19T08:34:00+00:00",
+    "firstSeen": "2026-10-19T09:53:40.723569+00:00",
+    "lastSeen": "2026-10-19T09:53:40.723569+00:00",
+    "publisher": "Splash 247",
+    "channels": [
+      "splash"
+    ],
+    "region": "Global",
+    "sector": "Ports & logistics",
+    "kind": "Industry",
+    "score": 65,
+    "evidence": "Feed lead — not independently verified",
+    "primaryFeed": false,
+    "status": "Unverified",
+    "value": null
+  },
+  {
+    "id": "fcac8dd42f298f7f67bc",
+    "title": "European shipowners demand bigger share of EU carbon revenues",
+    "url": "https://splash247.com/european-shipowners-demand-bigger-share-of-eu-carbon-revenues",
+    "publishedAt": "2026-10-19T08:15:58+00:00",
+    "firstSeen": "2026-10-19T09:53:40.723569+00:00",
+    "lastSeen": "2026-10-19T09:53:40.723569+00:00",
+    "publisher": "Splash 247",
+    "channels": [
+      "splash"
+    ],
+    "region": "Global",
+    "sector": "Ports & logistics",
+    "kind": "Industry",
+    "score": 65,
+    "evidence": "Feed lead — not independently verified",
+    "primaryFeed": false,
+    "status": "Unverified",
+    "value": null
+  },
+  {
+    "id": "369dff5f5d6b7720a939",
+    "title": "COSCO books 16 grain carrier newbuilds",
+    "url": "https://splash247.com/cosco-books-16-grain-carrier-newbuilds",
+    "publishedAt": "2026-10-19T08:02:58+00:00",
+    "firstSeen": "2026-10-19T09:53:40.723569+00:00",
+    "lastSeen": "2026-10-19T09:53:40.723569+00:00",
+    "publisher": "Splash 247",
+    "channels": [
+      "splash"
+    ],
+    "region": "Global",
+    "sector": "Ports & logistics",
+    "kind": "Industry",
+    "score": 65,
+    "evidence": "Feed lead — not independently verified",
+    "primaryFeed": false,
+    "status": "Unverified",
+    "value": null
+  },
+  {
+    "id": "3f4e5d146580a145ad19",
+    "title": "China Merchants and COSCO move to exit Qingdao ore terminal",
+    "url": "https://splash247.com/china-merchants-and-cosco-move-to-exit-qingdao-ore-terminal",
+    "publishedAt": "2026-10-19T07:30:43+00:00",
+    "firstSeen": "2026-10-19T09:53:40.723569+00:00",
+    "lastSeen": "2026-10-19T09:53:40.723569+00:00",
+    "publisher": "Splash 247",
+    "channels": [
+      "splash"
+    ],
+    "region": "Global",
+    "sector": "Ports & logistics",
+    "kind": "Industry",
+    "score": 65,
+    "evidence": "Feed lead — not independently verified",
+    "primaryFeed": false,
+    "status": "Unverified",
+    "value": null
+  },
+  {
+    "id": "d286a1080c62524716dc",
+    "title": "India rolls out credit risk backstop for shipbuilders",
+    "url": "https://splash247.com/india-rolls-out-credit-risk-backstop-for-shipbuilders",
+    "publishedAt": "2026-10-19T07:00:23+00:00",
+    "firstSeen": "2026-10-19T09:53:40.723569+00:00",
+    "lastSeen": "2026-10-19T09:53:40.723569+00:00",
+    "publisher": "Splash 247",
+    "channels": [
+      "splash"
+    ],
+    "region": "Global",
+    "sector": "Ports & logistics",
+    "kind": "Industry",
+    "score": 65,
+    "evidence": "Feed lead — not independently verified",
+    "primaryFeed": false,
+    "status": "Unverified",
+    "value": null
+  },
+  {
+    "id": "c8e3ba9ccf2e8e532435",
+    "title": "Chemikalien Seetransport down to one LR1 tanker",
+    "url": "https://splash247.com/chemikalien-seetransport-down-to-one-lr1-tanker",
+    "publishedAt": "2026-10-19T05:45:05+00:00",
+    "firstSeen": "2026-10-19T09:53:40.723569+00:00",
+    "lastSeen": "2026-10-19T09:53:40.723569+00:00",
+    "publisher": "Splash 247",
+    "channels": [
+      "splash"
+    ],
+    "region": "Global",
+    "sector": "Ports & logistics",
+    "kind": "Industry",
+    "score": 65,
+    "evidence": "Feed lead — not independently verified",
+    "primaryFeed": false,
+    "status": "Unverified",
+    "value": null
+  },
+  {
     "id": "b7572451b43084db0f86",
     "title": "Dublin Port moves ahead with $281m infrastructure programme",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLTNPblNhSEZBcDAtTDJvWUlLUTdwXzVqdWJ0ZGJHWGJZSFBMVnNWbVc1Mm8tQUdjaENzQjVhR2hPQWNaLURRUWh0R21tZDJGcUVQcERtY2tGYTR5VER1a2RNT0dRaEQ1TlVXZDVJdHVaOHU5TUtRUlBvRm5KV25oTWtnNnl3ZEQ4?oc=5",
@@ -90915,7 +91135,7 @@
     "url": "https://www.globalpsa.com/baltic-hub-boosts-rail-capacity-with-two-new-rail-mounted-gantry-cranes",
     "publishedAt": "2026-09-25T02:55:41+00:00",
     "firstSeen": "2026-10-06T18:01:41.222344+00:00",
-    "lastSeen": "2026-10-19T00:12:33.313737+00:00",
+    "lastSeen": "2026-10-19T09:53:40.723569+00:00",
     "publisher": "PSA International",
     "channels": [
       "psa"
